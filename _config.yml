@@ -1,0 +1,38 @@
+# _config.yml for a dark theme GitHub Pages site
+
+# Site settings
+title: "Randy Atilano's Data Analytics Portfolio"
+description: "Data Analyst in the Making | Showcasing my projects and growth"
+baseurl: "" # Base URL if your site is deployed in a subdirectory
+url: "https://acclrtd.github.io/Randy-s_Portfolio/" # Replace with your GitHub Pages URL
+
+# Author details
+author:
+  name: "Randy Atilano"
+  email: "atilanorandy@gmail.com"
+  github: "https://github.com/acclrtd"
+  linken: "https://www.linkedin.com/in/acclrtd/"
+
+# Theme configuration
+theme: jekyll-theme-cayman
+
+# Enable dark theme
+remote_theme: "pages-themes/cayman@v0.2.0"
+plugins:
+  - jekyll-remote-theme
+
+# Set to true to enable dark mode
+# Cayman theme supports dark mode
+dark_mode: true
+
+# Customize appearance
+palette:
+  primary: "#282828"  # Dark gray as the primary color
+  accent: "#00ADB5"   # Accent color for links, highlights
+  background: "#1B1B1B" # Dark background color
+  text: "#E0E0E0"     # Light text color for dark background
+
+# Footer options
+footer:
+  copyright: "© 2024 Randy Atilano"
+  powered_by: "GitHub Pages"
