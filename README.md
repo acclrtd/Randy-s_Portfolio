@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+# 📊 Portfolio
 
 ## 👋 About Me
 I am a Data Analyst dedicated to transforming complex datasets into clear, actionable stories. I specialize in identifying trends and providing data-driven solutions to help businesses make informed decisions.
