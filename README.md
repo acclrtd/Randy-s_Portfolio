@@ -1,36 +1,42 @@
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
 ## 👋 About Me
-I am a Data Analyst dedicated to transforming complex datasets into clear, actionable stories. I specialize in identifying trends and providing data-driven solutions.
+I am a Data Analyst dedicated to transforming complex datasets into clear, actionable stories. I specialize in identifying trends and providing data-driven solutions to help businesses make informed decisions.
+
+---
+
+## 🛠️ My Toolbox
+
+### 💻 Languages & Databases
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### ⚙️ Core Competencies
+* **Data Modeling & ETL:** Skilled in using Power Query to clean and transform messy data.
+* **Advanced Analytics:** Proficient in DAX (Data Analysis Expressions) for complex financial calculations.
+* **Financial Reporting:** Experienced in creating Accounts Receivable aging reports and revenue concentration maps.
+* **KPI Tracking:** Designing interactive dashboards to monitor business performance in real-time.
 
 ---
 
 ## 🚀 Featured Data Analytics Projects
 
-### 📊 [Project Name 1](https://github.com/your-username/project-link)
-**Objective:** Analyzing [Target Data] to identify [Key Goal].
-- **Key Tools:** Python (Pandas/NumPy), SQL, Tableau.
-- **Results:** Improved [Metric] by X% through data-driven recommendations.
-- **[View Repository](https://github.com/your-username/project-link)**
+### 📊 [Financial & Accounts Receivable Dashboard](https://github.com/acclrtd/financial-ar-dashboard)
+**Objective:** Developed a comprehensive tracking system for JRJGB Construction to monitor sales trends and manage liquidity via aging debt reports.
 
-### 📈 [Project Name 2](https://github.com/your-username/project-link)
-**Objective:** Visualizing [Industry] trends to forecast [Outcome].
-- **Key Tools:** Power BI, Excel, SQL.
-- **Results:** Automated a reporting dashboard that saved 10 hours of manual work weekly.
-- **[View Repository](https://github.com/your-username/project-link)**
+* **Key Tools:** Power BI, DAX, Power Query.
+* **Key Insights:** * Identified **1.29M** in overdue collections requiring immediate action.
+    * Discovered that **36.14%** of total revenue is concentrated in a single client (SEPI).
+    * Visualized a massive revenue peak in **December** (32M) compared to other months.
+* **[View Repository](https://github.com/acclrtd/financial-ar-dashboard)**
 
 ---
 
-## 🛠 Technical Toolbox
-- **Data Analysis:** SQL (PostgreSQL, MySQL, Python, JASP, Excel (Pivot Tables).
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn.
-- **Statistical Methods:** Regression Analysis, Hypothesis Testing, Forecasting.
+## 👤 Contact & Connect
 
----
-
-## 📫 Connect with Me
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/acclrtd/)
-- **Email:** ranthedata@gmail.com
-
----
-*Created with 💙 by 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acclrtd/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranthedata@gmail.com)
